@@ -7,7 +7,7 @@ class String
   # order to capitalize the first letter of EVERY 
   # word we have to write our own.
   def titleize
-    self.split(' ').collect {|word| word.capitalize}.join(" ")}
-  end
+    self.split(' ').collect {|word| word.capitalize}.join(" ")
+end
   
 end
