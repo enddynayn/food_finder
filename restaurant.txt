@@ -1,1 +1,3 @@
 Hot Tamale	Mexican	25
+Cafe Marsala	Indian	20
+exit	quit	20
